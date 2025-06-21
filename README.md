@@ -1,7 +1,7 @@
 # agrinho2025AmissaodeLarry
 Sobre o Jogo
 
-A Missão de Larry é um jogo de plataforma e aventura onde você controla Larry em sua missão de coletar recursos naturais como millho,maça,trigo. Sua jornada atravessa 25 fases que vão do campo até a cidade. O objetivo principal é levar suas colheitas para a cidade e vende-las para a festa da conexao ser realizada.
+A Missão de Larry é um jogo de plataforma e aventura onde você controla Larry em sua missão de coletar recursos naturais como millho,maça,trigo. Sua jornada atravessa diversas fases que vão do campo até a cidade. O objetivo principal é levar suas colheitas para a cidade e vende-las para a festa da conexao ser realizada.
 
 
 Como Jogar
@@ -25,7 +25,7 @@ Créditos
 
 Criação e Desenvolvimento: Geovana Valentin Carneiro
 
-Artes (feitas no aplicativo PIXELART): Geovana Valentin Carneiro (Céu, planeta terra, celeiro, árvores, feno, arbusto do campo, chão do campo, chão da cidade, maçã, corações da vida, vaso de planta, milho coletável, prédios da cidade, postes, lata de lixo, lojas da feira, mercado, balcão com computador, cesta de maçã).Algumas imagens foram retiradas do Google.
+Artes feitas por Geovana Valentin Carneiro no aplicativo PIXELART: Céu, planeta terra, celeiro, árvores, feno, arbusto do campo, chão do campo, chão da cidade, maçã, corações da vida, vaso de planta, milho coletável, prédios da cidade, postes, lata de lixo, lojas da feira, mercado, balcão com computador, cesta de maçã. Algumas imagens foram retiradas do Google.
 
 Música: Gerada por SUNO (Inteligência Artificial).
 
